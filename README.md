@@ -1,0 +1,2 @@
+- ids_kddcup: KDD99 Dataset을 이용해 구성한 침입탐지시스템(Intrusion Detection System: IDS) 구현
+- pygame_rpg: python, pygame을 이용한 rpg 구현
